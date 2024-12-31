@@ -7,7 +7,7 @@ ppt ： [Final Project Presentation - DRIAMS](https://docs.google.com/presentati
 
 ## 操作
 1. Kaggle下載資料集
-2. final_group1.ipynb打開就可以跑 (原先有先做預處理的文件，但每個都GB等級，上傳不了)
+2. final_group1.ipynb打開就可以跑 (原先有先做預處理的文件，檔案太大上傳不了)
 
 ## Dataset introduction
 ### Data type
